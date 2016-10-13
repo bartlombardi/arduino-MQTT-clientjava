@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{Introduzione}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Obiettivi}{section.1}% 2
+\BOOKMARK [1][-]{section.2}{Tecnologie}{}% 3
+\BOOKMARK [2][-]{subsection.2.1}{Materiale}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.2}{Librerie e Tool}{section.2}% 5
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Librerie}{subsection.2.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Il broker utilizzato: Mosquitto}{subsection.2.2}% 7
+\BOOKMARK [1][-]{section.3}{Implementazione}{}% 8
+\BOOKMARK [2][-]{subsection.3.1}{Code}{section.3}% 9
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Arduino}{subsection.3.1}% 10
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Client Java}{subsection.3.1}% 11
+\BOOKMARK [1][-]{section.4}{Installazione}{}% 12
