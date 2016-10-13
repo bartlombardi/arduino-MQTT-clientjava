@@ -1,4 +1,8 @@
 # Arduino-MQTT and Java Client 
+
+University of Bologna - MSc Computer Science. <br>
+Physics of Complex Systems course. <br>
+
 Sketch to read the Accelerometer and Gyroscope date from MPU-6050 (GY-521) and publish them to a MQTT-Server.
 
 MQTT subscriber (client java) for plotting date received from Arduino, implemented using Eclipse Paho client libraries and JFREE CHART.
